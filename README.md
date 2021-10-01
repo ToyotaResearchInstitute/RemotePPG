@@ -8,7 +8,10 @@ The ability to reliably estimate physiological signals from video is a powerful 
 
 ### ICCV main conference paper materials
 
-Code, paper, poster and video summary links will be uploaded here prior to the conference.
+- [x] [Paper + supplementary](pdf/2020-10-01-full.pdf)
+- [x] [Poster](pdf/2020-10-01-poster.pdf)
+- [ ] Video (5 min summary)
+- [ ] Code will be uploaded here prior to the main conference.
 
 ### Vision 4 Vitals workshop challenge
 
