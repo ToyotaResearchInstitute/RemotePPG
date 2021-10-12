@@ -11,25 +11,29 @@ The ability to reliably estimate physiological signals from video is a powerful 
 - [x] [Paper + supplementary](pdf/2020-10-01-full.pdf)
 - [x] [Poster](pdf/2020-10-01-poster.pdf)
 - [ ] Video (5 min summary)
-- [ ] Code will be uploaded here prior to the main conference.
+- [x] Code - see [iccv/README.md](./iccv/README.md)
 
 ### Vision 4 Vitals workshop challenge
 
-V4V workshop paper link will be uploaded here prior to the workshop.
+[V4V workshop paper link](https://openaccess.thecvf.com/content/ICCV2021W/V4V/papers/Gideon_Estimating_Heart_Rate_From_Unlabelled_Video_ICCVW_2021_paper.pdf)
 
 ### Citations
 
 ```
-@inproceedings{gideon2021rppg,
-  title={The Way to my Heart is through Contrastive Learning: Remote Photoplethysmography from Unlabelled Video},
-  author={Gideon, John and Stent, Simon},
-  booktitle={International Conference on Computer Vision (ICCV)},
-  year={2021}
+@InProceedings{Gideon_2021_ICCV,
+    author    = {Gideon, John and Stent, Simon},
+    title     = {The Way to My Heart Is Through Contrastive Learning: Remote Photoplethysmography From Unlabelled Video},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {3995-4004}
 }
-@inproceedings{gideon2021rppg,
-  title={Estimating Heart Rate from Unlabelled Video},
-  author={Gideon, John and Stent, Simon},
-  booktitle={1st Vision for Vitals Workshop & Challenge, International Conference on Computer Vision (ICCV) Workshops},
-  year={2021}
+@InProceedings{Gideon_2021_ICCV,
+    author    = {Gideon, John and Stent, Simon},
+    title     = {Estimating Heart Rate From Unlabelled Video},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2021},
+    pages     = {2743-2749}
 }
 ```
